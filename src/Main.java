@@ -66,6 +66,7 @@ public class Main {
         countMaxSalary(employee);
         countStuffSalary(employee);
         averageSalary(employee);
+        System.out.println("----------");
         countAllStuff(employee);
 
 
